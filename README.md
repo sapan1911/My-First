@@ -1,4 +1,4 @@
-# Out1 and 2 Version 1
+# Output1 and 2 Version 1
 
 #Importing Library
 
